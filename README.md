@@ -108,7 +108,7 @@ npm run start
 
 ## 架构
 <p align="center">
-  <img src="https://img.kancloud.cn/88/da/88da8c00bdc1287afeddfbed3aec01f2_2158x1322.jpg">
+  <img src="https://think-js.cn/xmind.png">
 </p>
 
 ## 执照
