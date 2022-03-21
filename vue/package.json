@@ -1,0 +1,21 @@
+{
+  "name": "vue",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@nutui/nutui": "^3.1.16",
+    "axios": "^0.26.1",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.14",
+    "weixin-jsapi": "^1.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.0",
+    "vite": "^2.8.0"
+  }
+}
